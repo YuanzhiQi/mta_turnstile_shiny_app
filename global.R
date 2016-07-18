@@ -6,6 +6,7 @@ library(data.table)
 library(leaflet)
 library(DT)
 library(ggplot2)
+library(leaflet)
 
 load("start.RData")
 
